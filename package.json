@@ -1,0 +1,23 @@
+{
+  "name": "vr",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000d\u0000d\u0000_\u0000i\u0000n\u0000_\u0000v\u0000r\u0000c\u0000h\u0000a\u0000t\u0000_\u0000f\u0000i\u0000l\u0000e\u0000\r\u0000 \u0000",
+  "main": "vrChat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MRJustYarik@github.com/MRJustYarik/add_in_vrchat_file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MRJustYarik/add_in_vrchat_file/issues"
+  },
+  "homepage": "https://github.com/MRJustYarik/add_in_vrchat_file#readme",
+  "dependencies": {
+    "vrchat-api-library": "^2.0.0"
+  }
+}
