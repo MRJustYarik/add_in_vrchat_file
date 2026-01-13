@@ -7,15 +7,15 @@ https://github.com/Solitarju/vrchat-api-library
 *Я это написал скорее для себя так как изучая go, node js, ts, python и я постоянно забываю что и как запускается :з*
 ### Для начала работы
 - Перейти в папку репозитория
-- npm -v 
-- npm init -y
-- npm install vrchat-api-library
+- powershell> npm -v 
+- powershell> npm init -y
+- powershell> npm install vrchat-api-library
 - Файл config.json.exaple
     - поменять на config.json
     - user.name - написать логин от VrChat(почта)
     - user.pass - написать пароль от VrChat
     - В tfn закинуть id группы и галереи
-- node vr_script.js
+- powershell> node vr_script.js
 
 После запуска он один раз попросит ввести код который выслал на почту, потом он просто запомнит куки и будет запускаться сразу.
 На вывод должен быть список геев и данные о группе.
@@ -35,6 +35,6 @@ https://github.com/Solitarju/vrchat-api-library
     - Взятие изображений через чат в дс по команде(как именно еще стоит подумать)
     - Вызов функций добавления
     - Уведомление об ошибке или успехе загрузки
-
     - (В идеале) сделать проверку на наличие изображения в галереи, чтобы не загружать дубликаты
+
 
